@@ -63,6 +63,10 @@ this is me!”
 
 ###
 
+<h2 align="left">Connect with me :</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -75,10 +79,10 @@ this is me!”
   <a href="https://wa.me/+201113027315" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="https://t.me/+201113027315" target="_blank">
+  <a href="https://t.me/Mustafa1Ezzat" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="https://youtube.com/mostafa1ezzat" target="_blank">
+  <a href="https://www.youtube.com/@mustafa1ezzat" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://www.behance.net/mustafa1ezzat" target="_blank">
