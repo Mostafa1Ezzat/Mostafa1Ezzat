@@ -18,7 +18,7 @@ this is me!”
 > 🖖 Ask me about anything [here](https://wa.me/+201113027315) ...
 
 
-> <h1 align="left">Languages and Tools :</h1>
+<h1 align="left">Languages and Tools :</h1>
 
 ###
 
