@@ -15,17 +15,10 @@ this is me!”
 > ❤️ I love writing Javascript , and building projects with React ...
 
 > [!IMPORTANT]
-> 🖖 JavaScript | React Js | NodeJS ...
-
-> [!WARNING]
-> 🛠️ I have some basic experience with technologies like PHP (Laravel), c++ ...
-
-> [!CAUTION]
-> 💬 Ask me about anything [here](https://wa.me/+201113027315) ...
+> 🖖 Ask me about anything [here](https://wa.me/+201113027315) ...
 
 
-
-<h1 align="left">Languages and Tools :</h1>
+> <h1 align="left">Languages and Tools :</h1>
 
 ###
 
